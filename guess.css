@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+.container{
+    width: 400px;
+    height: 400px;
+    border: 1px solid blue;
+    margin: 0 auto;
+    position: relative;
+    top: 50px;
+    
+}
+.heading{
+    text-align: center;
+    font-size:15px;
+}
+.prompt{
+    text-align: center;
+}
