@@ -9,7 +9,6 @@ window.addEventListener("DOMContentLoaded", () => {
 
 		while (start <= end) {
 			let middle = Math.floor((end + start) / 2);
-			console.log(arr[middle] < val, "miarr[middle] < valddle");
 			if (arr[middle] < val) {
 				start = middle + 1;
 			} else if (arr[middle] > val) {
