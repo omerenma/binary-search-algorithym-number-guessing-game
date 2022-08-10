@@ -24,12 +24,7 @@ window.addEventListener("DOMContentLoaded", () => {
 	};
 
 	let data = [
-		// 2, 4, 6, 8, 9, 10, 20, 22, 30, 35, 36, 37, 38, 39, 40, 55, 56, 60, 67, 68,
-		"abuja",
-		"benue",
-		"calaba",
-		"delta",
-		"edo",
+		2, 4, 6, 8, 9, 10, 20, 22, 30, 35, 36, 37, 38, 39, 40, 55, 56, 60, 67, 68,
 	];
 
 	submit.addEventListener("click", () => {
